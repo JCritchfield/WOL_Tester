@@ -1,0 +1,6 @@
+C:\Users\jcritchfield\Desktop\Chromebook Manager\WOL_Tester\WOL_Tester\bin\Debug\WOL_Tester.exe.config
+C:\Users\jcritchfield\Desktop\Chromebook Manager\WOL_Tester\WOL_Tester\obj\Debug\WOL_Tester.csprojResolveAssemblyReference.cache
+C:\Users\jcritchfield\Desktop\Chromebook Manager\WOL_Tester\WOL_Tester\bin\Debug\WOL_Tester.exe
+C:\Users\jcritchfield\Desktop\Chromebook Manager\WOL_Tester\WOL_Tester\bin\Debug\WOL_Tester.pdb
+C:\Users\jcritchfield\Desktop\Chromebook Manager\WOL_Tester\WOL_Tester\obj\Debug\WOL_Tester.exe
+C:\Users\jcritchfield\Desktop\Chromebook Manager\WOL_Tester\WOL_Tester\obj\Debug\WOL_Tester.pdb
